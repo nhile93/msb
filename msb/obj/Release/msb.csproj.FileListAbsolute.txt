@@ -28,3 +28,41 @@ E:\.NET Core\msb\msb\obj\Release\msb.csproj.GenerateResource.cache
 E:\.NET Core\msb\msb\obj\Release\msb.csproj.CopyComplete
 E:\.NET Core\msb\msb\obj\Release\msb.exe
 E:\.NET Core\msb\msb\obj\Release\msb.pdb
+D:\Learn\msb\msb\msb\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Learn\msb\msb\msb\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Learn\msb\msb\msb\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Learn\msb\msb\msb\bin\Release\msb.exe.config
+D:\Learn\msb\msb\msb\bin\Release\msb.exe
+D:\Learn\msb\msb\msb\bin\Release\msb.pdb
+D:\Learn\msb\msb\msb\bin\Release\EntityFramework.dll
+D:\Learn\msb\msb\msb\bin\Release\EntityFramework.SqlServer.dll
+D:\Learn\msb\msb\msb\bin\Release\Microsoft.Data.Sqlite.dll
+D:\Learn\msb\msb\msb\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Learn\msb\msb\msb\bin\Release\SQLitePCLRaw.core.dll
+D:\Learn\msb\msb\msb\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Learn\msb\msb\msb\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Learn\msb\msb\msb\bin\Release\System.Buffers.dll
+D:\Learn\msb\msb\msb\bin\Release\System.Data.SQLite.dll
+D:\Learn\msb\msb\msb\bin\Release\System.Data.SQLite.EF6.dll
+D:\Learn\msb\msb\msb\bin\Release\System.Memory.dll
+D:\Learn\msb\msb\msb\bin\Release\System.Numerics.Vectors.dll
+D:\Learn\msb\msb\msb\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learn\msb\msb\msb\bin\Release\EntityFramework.xml
+D:\Learn\msb\msb\msb\bin\Release\EntityFramework.SqlServer.xml
+D:\Learn\msb\msb\msb\bin\Release\Microsoft.Data.Sqlite.xml
+D:\Learn\msb\msb\msb\bin\Release\System.Buffers.xml
+D:\Learn\msb\msb\msb\bin\Release\System.Data.SQLite.xml
+D:\Learn\msb\msb\msb\bin\Release\System.Data.SQLite.dll.config
+D:\Learn\msb\msb\msb\bin\Release\System.Memory.xml
+D:\Learn\msb\msb\msb\bin\Release\System.Numerics.Vectors.xml
+D:\Learn\msb\msb\msb\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Learn\msb\msb\msb\obj\Release\msb.Properties.Resources.resources
+D:\Learn\msb\msb\msb\obj\Release\msb.csproj.GenerateResource.cache
+D:\Learn\msb\msb\msb\obj\Release\msb.csproj.CopyComplete
+D:\Learn\msb\msb\msb\obj\Release\msb.exe
+D:\Learn\msb\msb\msb\obj\Release\msb.pdb
+D:\Learn\msb\msb\msb\bin\Release\msb.exe.manifest
+D:\Learn\msb\msb\msb\bin\Release\msb.application
+D:\Learn\msb\msb\msb\obj\Release\msb.exe.manifest
+D:\Learn\msb\msb\msb\obj\Release\msb.application
+D:\Learn\msb\msb\msb\obj\Release\msb.csprojAssemblyReference.cache

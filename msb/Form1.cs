@@ -17,7 +17,13 @@ namespace msb
         public Form1()
         {
             InitializeComponent();
+            string message = "You did not enter a server name. Cancel this operation?";
+            string caption = "Error Detected in Input";
+            MessageBoxButtons buttons = MessageBoxButtons.YesNo;
+            DialogResult result;
 
+            // Displays the MessageBox.
+            result = MessageBox.Show(message, caption, buttons);
             DatabaseContext context = new DatabaseContext();
             Console.WriteLine("Enter Employee name");
             string name = "duc 2";

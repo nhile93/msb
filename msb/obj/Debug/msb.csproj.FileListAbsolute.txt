@@ -32,3 +32,41 @@ E:\.NET Core\msb\msb\bin\Debug\EntityFramework.SqlServer.dll
 E:\.NET Core\msb\msb\bin\Debug\System.Data.SQLite.EF6.dll
 E:\.NET Core\msb\msb\bin\Debug\EntityFramework.xml
 E:\.NET Core\msb\msb\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learn\msb\msb\msb\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\Learn\msb\msb\msb\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\Learn\msb\msb\msb\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\Learn\msb\msb\msb\bin\Debug\msb.exe.config
+D:\Learn\msb\msb\msb\bin\Debug\msb.exe
+D:\Learn\msb\msb\msb\bin\Debug\msb.pdb
+D:\Learn\msb\msb\msb\bin\Debug\EntityFramework.dll
+D:\Learn\msb\msb\msb\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learn\msb\msb\msb\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Learn\msb\msb\msb\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Learn\msb\msb\msb\bin\Debug\SQLitePCLRaw.core.dll
+D:\Learn\msb\msb\msb\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Learn\msb\msb\msb\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Learn\msb\msb\msb\bin\Debug\System.Buffers.dll
+D:\Learn\msb\msb\msb\bin\Debug\System.Data.SQLite.dll
+D:\Learn\msb\msb\msb\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Learn\msb\msb\msb\bin\Debug\System.Memory.dll
+D:\Learn\msb\msb\msb\bin\Debug\System.Numerics.Vectors.dll
+D:\Learn\msb\msb\msb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learn\msb\msb\msb\bin\Debug\EntityFramework.xml
+D:\Learn\msb\msb\msb\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learn\msb\msb\msb\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Learn\msb\msb\msb\bin\Debug\System.Buffers.xml
+D:\Learn\msb\msb\msb\bin\Debug\System.Data.SQLite.xml
+D:\Learn\msb\msb\msb\bin\Debug\System.Data.SQLite.dll.config
+D:\Learn\msb\msb\msb\bin\Debug\System.Memory.xml
+D:\Learn\msb\msb\msb\bin\Debug\System.Numerics.Vectors.xml
+D:\Learn\msb\msb\msb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Learn\msb\msb\msb\obj\Debug\msb.Properties.Resources.resources
+D:\Learn\msb\msb\msb\obj\Debug\msb.csproj.GenerateResource.cache
+D:\Learn\msb\msb\msb\obj\Debug\msb.csproj.CopyComplete
+D:\Learn\msb\msb\msb\obj\Debug\msb.exe
+D:\Learn\msb\msb\msb\obj\Debug\msb.pdb
+D:\Learn\msb\msb\msb\bin\Debug\msb.exe.manifest
+D:\Learn\msb\msb\msb\bin\Debug\msb.application
+D:\Learn\msb\msb\msb\obj\Debug\msb.csprojAssemblyReference.cache
+D:\Learn\msb\msb\msb\obj\Debug\msb.exe.manifest
+D:\Learn\msb\msb\msb\obj\Debug\msb.application
