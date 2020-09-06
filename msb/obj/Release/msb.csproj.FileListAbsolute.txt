@@ -66,3 +66,4 @@ D:\Learn\msb\msb\msb\bin\Release\msb.application
 D:\Learn\msb\msb\msb\obj\Release\msb.exe.manifest
 D:\Learn\msb\msb\msb\obj\Release\msb.application
 D:\Learn\msb\msb\msb\obj\Release\msb.csprojAssemblyReference.cache
+D:\Learn\msb\msb\msb\obj\Release\msb.Form1.resources

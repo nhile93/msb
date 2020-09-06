@@ -70,3 +70,4 @@ D:\Learn\msb\msb\msb\bin\Debug\msb.application
 D:\Learn\msb\msb\msb\obj\Debug\msb.csprojAssemblyReference.cache
 D:\Learn\msb\msb\msb\obj\Debug\msb.exe.manifest
 D:\Learn\msb\msb\msb\obj\Debug\msb.application
+D:\Learn\msb\msb\msb\obj\Debug\msb.Form1.resources

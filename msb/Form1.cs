@@ -27,15 +27,9 @@ namespace msb
             DatabaseContext context = new DatabaseContext();
             Console.WriteLine("Enter Employee name");
             string name = "duc 2";
-            Console.WriteLine("Enter Salary");
-            double salary = Convert.ToDouble("123456");
-            Console.WriteLine("Enter Designation");
-            string designation = "duc dep trai";
             EmployeeMaster employee = new EmployeeMaster()
             {
-                EmpName = name,
-                Designation = designation,
-                Salary = salary
+                EmpName = name
             };
             context.EmployeeMaster.Add(employee);
             context.SaveChanges();
@@ -44,7 +38,7 @@ namespace msb
             var history = context.History.ToList();
             foreach (var item in data)
             {
-                Console.Write(string.Format("ID : {0}  Name : {1}  Salary : {2}   Designation : {3}{4}", item.ID, item.EmpName, item.Salary, item.Designation, Environment.NewLine));
+                Console.Write(string.Format("ID : {0}  Name : {1}  Salary : {2}", item.ID, item.EmpName, Environment.NewLine));
             }
 
         }

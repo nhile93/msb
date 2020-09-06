@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="msb.exe" size="11736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="msb.exe" size="12760">
       <assemblyIdentity name="msb" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5WfrCJhNd6DtZ1Dc5M5skDvmPgcTgTs5KuP+bFaKuis=</dsig:DigestValue>
+        <dsig:DigestValue>PYHK9kXA16o8gtAuJxnC+xZ5c9s45gHUf/HtMbQUDUc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

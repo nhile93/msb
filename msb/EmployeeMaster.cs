@@ -22,10 +22,10 @@ namespace SQLiteWithEF
         [Column(Name = "EmpName", DbType = "VARCHAR")]
         public string EmpName { get; set; }
 
-        [Column(Name = "Salary", DbType = "DOUBLE")]
-        public double Salary { get; set; }
+        //[Column(Name = "Salary", DbType = "DOUBLE")]
+        //public double Salary { get; set; }
 
-        [Column(Name = "Designation", DbType = "VARCHAR")]
-        public string Designation { get; set; }
+        //[Column(Name = "Designation", DbType = "VARCHAR")]
+        //public string Designation { get; set; }
     }
 }
